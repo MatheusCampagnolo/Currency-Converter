@@ -31,6 +31,10 @@ Feel free to contribute if you'd like to improve the project! Here are some impr
 
 If you want to test, here is the url for it: https://matheuscampagnolo.github.io/Currency-Converter/
 
+## Credits
+
+This project uses the awesomeAPI to fetch real-time exchange rates for the currency conversion feature. We thank the awesomeAPI team for providing a reliable service that enhances the functionality of our application.
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE), which means you can use, modify, and distribute the code freely as long as you include the original license and acknowledge the project contributors.
