@@ -1,6 +1,6 @@
 // Function to update currency options
 function updateCurrencyOptions() {
-    const currencies = ['USD', 'EUR', 'BRL', 'JPY']; // Add more currencies as needed
+    const currencies = ['USD', 'EUR', 'BRL', 'JPY', 'CAD', 'AUD', 'CNY', 'GBP', 'SEK', 'RUB']; // Add more currencies as needed
     const selectSource = document.getElementById('source-currency');
     const selectDestination = document.getElementById('destination-currency');
 
